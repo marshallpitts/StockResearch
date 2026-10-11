@@ -1,3 +1,3 @@
 # StockResearch
 
-# Research Milestone - Marshall Pitts
+# Research Milestone 
