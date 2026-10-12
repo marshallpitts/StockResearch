@@ -15,7 +15,8 @@ This is a small terminal based sample project for the Research Milestone
 - View mock stock prices, whole shares, and leftover cash
 
 ## Run the project
-- python3 -m venv .venv
-- source .venv/bin/activate
-- python -m pip install rich
-- python main.py
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install rich
+python main.py
